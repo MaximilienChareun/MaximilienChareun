@@ -49,10 +49,9 @@
 
 ![Metrics](https://metrics.lecoq.io/MaximilienChareun?template=classic&config.timezone=America%2FToronto)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Little tuch of humor <img align ='center' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
